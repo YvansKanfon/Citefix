@@ -1,0 +1,39 @@
+# Node modules
+/node_modules
+
+# Fichiers de build
+/dist
+/build
+/.vitepress/dist
+
+# Cache
+/.cache
+/.nuxt
+/.output
+/.temp
+
+# Config éditeur
+.vscode
+.idea
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Fichiers d'environnement
+.env
+.env.*.local
+
+# Tests
+/coverage
+
+# OS / Système
+.DS_Store
+Thumbs.db
+
+# lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
